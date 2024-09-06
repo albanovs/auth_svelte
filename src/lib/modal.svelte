@@ -51,10 +51,12 @@
     border-radius: 8px;
     padding: 20px;
     max-width: 500px;
+    min-width: 200px;
     width: 100%;
     text-align: center;
     animation: fadeIn 0.3s;
     color: green;
+    margin: 5px;
   }
 
   button {
